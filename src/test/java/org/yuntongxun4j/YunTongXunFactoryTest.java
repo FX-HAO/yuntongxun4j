@@ -8,14 +8,8 @@ import yuntongxun4j.conf.Configuration;
 
 import java.util.Properties;
 
-/**
- * Unit test for simple App.
- */
 public class YunTongXunFactoryTest
 {
-    /**
-     * Rigorous Test :-)
-     */
     @Test
     public void defaultProperties()
     {
